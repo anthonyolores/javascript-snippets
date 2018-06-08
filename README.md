@@ -8,4 +8,4 @@ promise.js
 https://codepen.io/anon/pen/MGNaPv?editors=0011
 
 prototype.js
-https://codepen.io/anon/pen/vrYPOZ?editors=1111
+https://codepen.io/anon/pen/vrYPOZ?editors=0010
