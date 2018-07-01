@@ -3,7 +3,7 @@ const promiseFunc = (b) => {
       return b? resolve("promise resolved") : reject("promise rejected");
     });
 };
- 
+  
 //pass true to resolve otherwise false to reject promise
 promiseFunc(true)
 .then((msg) => {
